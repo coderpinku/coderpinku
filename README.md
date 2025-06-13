@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pinku Kumar
 - 💼 I’m currently working as a <strong>Web Developer</strong> at [Multivariate AI](multivariate.tech).
-- 🌱 I’m aspiring Full Stack Developer
+- 🌱 I’m aspiring a Full Stack Developer
 - 🧭 I love exploring and working both in frontend and backend.
 - 📫 How to reach me https://pinkuthesmart.netlify.app
 
