@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Pinku Kumar
+<h1 align="center"> Hola,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Pinku Kumar</h1>
+
 - 💼 I’m currently working as a <strong>Web Developer</strong> at [Multivariate AI](multivariate.tech).
 - 🌱 I’m aspiring a Full Stack Developer
 - 🧭 I love exploring and working both in frontend and backend.
